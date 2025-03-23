@@ -4,7 +4,7 @@
 
 Clone FileDorado From my github repo into ``` C:\xampp\htdocs ```
 
-Create Directory named uploads in this project Directory
+Create Directory named uploads in this project'S Directory
 
 ```bash
   cd C:\xampp\htdocs
