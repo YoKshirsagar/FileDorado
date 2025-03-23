@@ -3,11 +3,13 @@
 ## SETUP {PC SIDE}
 
 Clone FileDorado From my github repo into ``` C:\xampp\htdocs ```
+Create Directory named uploads in this project Directory
 
 ```bash
   cd C:\xampp\htdocs
   git clone https://github.com/YoKshirsagar/FileDorado.git
 ```
+
 Open XAMPP and start apache
 
 ![Apache Start](https://github.com/YoKshirsagar/FileDorado/blob/main/screenshots/1.png)
