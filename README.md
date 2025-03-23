@@ -3,6 +3,7 @@
 ## SETUP {PC SIDE}
 
 Clone FileDorado From my github repo into ``` C:\xampp\htdocs ```
+
 Create Directory named uploads in this project Directory
 
 ```bash
